@@ -1,0 +1,22 @@
+link markdown:
+link langsung https:://bootstrap.com
+link biasa ini -->      [kalimat](linknya)
+link referense -->   
+    [kalimat][referensenya]   
+
+    [namerefnya]: linknya
+
+link dan title hovernya:
+    [kalimat](linknya 'titlenya')
+
+
+image: tambahkan tanda ! sebelum []()
+![title ini untuk menangani gambar yang corrupt](linknya)
+
+
+table:
+
+
+
+
+enter baris baru pakai spasi 2 kali

@@ -1,0 +1,80 @@
+heading:
+
+h1 = #
+
+underline rule:
+
+---   = untuk garis bawah teksnya agak kebawah
+___   = untuk garis bawah teksnya agak kebawah
+***   = untuk garis bawah teksnya agak atas
+
+
+text styl: tulisan italik, bold, dan strikethrough:
+italik bintand 1
+*Tulisan*
+_Tulisan_
+
+bold Bintang 2
+**Tulisann**
+
+italik bold:
+***Tulisan***
+**_Tulisan_**
+
+strikethrough:
+~~Tulisan~~
+
+
+list:
+ada 2 macam list yaitu order-list dan unordered-list.
+
+ordered list:
+1.
+2.
+3.
+
+unordered list: pakai - / + / *
+-
+-
+-
+
+
+task list checbox:
+menggunakan tanda [ ] untuk membuat checbox
+
+[ ]   --> ini belum di centang
+[X]   --> ini suda di centang
+
+Blockquote: menggunakan tanda >
+> tulisan bisa menggunakan <br> <hr>
+
+
+code dimarkdown : 
+```json
+{
+    name:"hidayat lossen",
+    number:1
+}
+```
+
+inline code di markdown: menggunakan `tulisan`
+tulisan `tulisan`
+
+link markdown:
+link langsung https:://bootstrap.com
+link biasa ini -->      [kalimat](linknya)
+link referense -->   
+    [kalimat][referensenya]   
+
+    [namerefnya]: linknya
+
+link dan title hovernya:
+    [kalimat](linknya 'titlenya')
+
+
+image: tambahkan tanda ! sebelum []()
+![title ini untuk menangani gambar yang corrupt](linknya)
+
+
+table:
+
